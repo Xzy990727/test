@@ -1,0 +1,12 @@
+{"rightToUp": [],
+"rightToLeft": ["leftToUp", "upToRight", "belowToUp", "upToBelow"],
+"upToLeft": [],
+"belowToUp": ["leftToRight", "upToRight", "rightToLeft", "rightToBelow"],
+"belowToLeft": ["rightToBelow", "leftToRight", "upToBelow", "leftToUp"],
+"belowToRight": [],
+"upToRight": ["leftToUp", "rightToLeft", "belowToUp", "rightToBelow"],
+"rightToBelow": ["upToRight", "belowToUp", "leftToRight", "belowToLeft"],
+"upToBelow": ["leftToRight", "leftToUp", "belowToLeft", "leftToBelow"],
+"leftToRight": ["belowToUp", "belowToLeft", "upToBelow", "rightToBelow"],
+"leftToBelow": [],
+"leftToUp": ["belowToLeft", "upToBelow", "rightToLeft", "upToRight"]}
